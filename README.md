@@ -1,2 +1,2 @@
 # demonstration
-first project
+first project.
